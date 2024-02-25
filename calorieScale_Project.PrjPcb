@@ -40,57 +40,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\93742\Desktop\workspace\BoardPCB\Projects\RK3588S_Project\Interface.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SGDVUIIS
-
-[Document2]
-DocumentPath=..\..\..\..\..\93742\Downloads\OuKj3y2eLIZkFboVaUOyoN2q0vS5b74Qd0WSEDaU\M1&M1W.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FKFEAOFM
-
-[Document3]
-DocumentPath=..\..\..\..\..\93742\Downloads\OuKj3y2eLIZkFboVaUOyoN2q0vS5b74Qd0WSEDaU\M1&M1W.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OSFIXJCH
-
-[Document4]
 DocumentPath=M1n_footprint.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +56,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHRFKEAY
 
-[Document5]
+[Document2]
 DocumentPath=K210Module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,24 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOOHRZRH
 
-[Document6]
-DocumentPath=..\..\..\..\..\93742\Downloads\M1n_footprint.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LEWPWRYJ
-
-[Document7]
+[Document3]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEYZKTGH
 
-[Document8]
+[Document4]
 DocumentPath=CH573.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRIEIBCP
 
-[Document9]
+[Document5]
 DocumentPath=calorieScale.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGBKKDVY
 
-[Document10]
+[Document6]
 DocumentPath=calorieScale.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,165 +140,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMLSBAKB
-
-[Document11]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.G1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.G2
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.REP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for calorieScale_Project\calorieScale.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for calorieScale_Project\Design Rule Check - calorieScale.html
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for calorieScale_Project\Fabrication Testpoint Report for calorieScale.csv
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for calorieScale_Project\Fabrication Testpoint Report for calorieScale.ipc
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

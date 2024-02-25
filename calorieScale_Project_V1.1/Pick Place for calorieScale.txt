@@ -1,0 +1,115 @@
+Altium Designer Pick and Place Locations
+C:\Users\Rick\Desktop\calorieScale_Project\Project Outputs for calorieScale_Project\Pick Place for calorieScale.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28-12-22
+Time:       05:06
+Revision:   d031956aa6ee65888a7879b3846ad073848ca1a9
+Variant:    No variations
+Units used: mil
+
+Designator       Comment           Layer       Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                 
+U102             LN6206P302        BottomLayer SOT23-3L            994.000       3767.000      360      ""                                                                          
+U101             LN6206P182        BottomLayer SOT23-3L            1083.000      3429.000      360      ""                                                                          
+R112             2K                BottomLayer R0603_L             1344.003      2649.997      180      贴片电阻                                                                        
+R111             2K                BottomLayer R0603_L             1344.003      2702.997      180      贴片电阻                                                                        
+R110             0R                TopLayer    R0603_L             1029.997      3544.997      360      贴片电阻                                                                        
+R109             0R                BottomLayer R0603_L             1443.997      3276.997      90       贴片电阻                                                                        
+R108             0R                TopLayer    R0603_L             1204.997      3545.003      270      贴片电阻                                                                        
+R107             0R                TopLayer    R0603_L             1256.997      3545.003      270      贴片电阻                                                                        
+C111             100nF             BottomLayer C0603_L             871.003       3739.997      180      贴片电容/MLCC电容                                                                 
+C110             1uF               BottomLayer C0603_L             871.003       3793.409      180      贴片电容/MLCC电容                                                                 
+C109             1uF               BottomLayer C0603_L             1099.003      3793.003      270      贴片电容/MLCC电容                                                                 
+C108             100nF             TopLayer    C0603_L             919.997       3539.997      360      贴片电容/MLCC电容                                                                 
+C107             1uF               TopLayer    C0603_L             919.997       3488.997      360      贴片电容/MLCC电容                                                                 
+C106             1uF               BottomLayer C0603_L             1193.003      3457.003      270      贴片电容/MLCC电容                                                                 
+Q302             AO3401            TopLayer    SOT23-3N            1960.630      145.669       180      "P沟道 30V/4.2A"                                                              
+U301             CH573F            TopLayer    QFN28_4X4           430.748       878.740       360      "RISC-V MCU with BLE/USB/ADC/SPI/4*UART"                                    
+E1               ANTENNA           TopLayer    ANT-F-1-2.4G-1.6    210.000       988.189       90       "Generic Antenna"                                                           
+X1               32M               TopLayer    XTAL-3225-4P        450.000       1130.000      315      4脚无源晶振(谐振器）                                                                 
+WeightSonsor     HDR-1X4           TopLayer    XH2.54-LI-4P        1745.000      1755.000      90       4P接插件                                                                       
+USB201           USB_TYPE-C_6Pin   TopLayer    USB-C-SMD_6P        3105.000      135.002       90       USB_TYPE-C_6Pin母座                                                           
+UK210            M1                TopLayer    M1                  854.095       2877.716      180      ""                                                                          
+U201             HT7533            TopLayer    SOT89_N             2345.532      380.000       270      LDO线性稳压芯片                                                                   
+TC6291C          TC6291C           TopLayer    SOT23-6             3295.000      795.000       360      ""                                                                          
+R212             "10K 1%"          BottomLayer R0603_L             3390.543      1059.409      180      贴片电阻                                                                        
+R211             "20K 1%"          BottomLayer R0603_L             3389.997      1119.003      360      贴片电阻                                                                        
+R210             "10K 1%"          BottomLayer R0603_L             1374.997      809.997       90       贴片电阻                                                                        
+R209             "10K 1%"          BottomLayer R0603_L             1771.997      809.997       90       贴片电阻                                                                        
+R208             "10K 1%"          BottomLayer R0603_L             2167.997      808.997       90       贴片电阻                                                                        
+R207             "10K 1%"          BottomLayer R0603_L             2563.997      809.997       90       贴片电阻                                                                        
+R206             "10K 1%"          TopLayer    R0603_L             3406.611      193.698       360      贴片电阻                                                                        
+R205             "5K 1%"           TopLayer    R0603_L             3406.795      253.291       180      贴片电阻                                                                        
+R204             "2K 1%"           TopLayer    R0603_L             3419.291      358.268       360      贴片电阻                                                                        
+R203             "12K 1%"          TopLayer    R0603_L             3236.066      664.997       90       贴片电阻                                                                        
+R202             "88K 1%"          TopLayer    R0603_L             3176.060      665.003       270      贴片电阻                                                                        
+R201             "47K %1"          BottomLayer R0603_L             3314.997      830.003       360      贴片电阻                                                                        
+R106             10K               TopLayer    R0603_L             1723.997      3038.997      360      贴片电阻                                                                        
+R105             10K               BottomLayer R0603_L             1624.997      3041.003      360      贴片电阻                                                                        
+R104             1K                BottomLayer R0603_L             1624.997      3101.003      360      贴片电阻                                                                        
+R103             10K               TopLayer    R0603_L             1554.997      2951.997      360      贴片电阻                                                                        
+R102             10K               TopLayer    R0603_L             109.997       2289.997      360      贴片电阻                                                                        
+R101             10K               TopLayer    R0603_L             109.997       2559.997      360      贴片电阻                                                                        
+R9               10K               BottomLayer R0603_L             719.131       381.066       0        贴片电阻                                                                        
+R8               10K               TopLayer    R0603_L             784.997       1469.997      0        贴片电阻                                                                        
+R7               10K               TopLayer    R0603_L             785.181       1530.409      0        贴片电阻                                                                        
+R6               10K               TopLayer    R0603_L             1605.003      1914.997      90       贴片电阻                                                                        
+R5               10K               TopLayer    R0603_L             1605.003      1794.997      90       贴片电阻                                                                        
+R4               10K               TopLayer    R0603_L             1545.003      1552.997      90       贴片电阻                                                                        
+R3               10K               TopLayer    R0603_L             1484.997      1553.003      270      贴片电阻                                                                        
+R2               10K               TopLayer    R0201_L             289.842       959.151       0        贴片电阻                                                                        
+Q301             SS8550            TopLayer    SOT23-3N            1325.000      1485.000      90       高频放大-PNP型                                                                   
+Q204             AO3400            BottomLayer SOT23-3N            2460.000      825.000       90       "N沟道 30V/4.2A"                                                              
+Q203             AO3400            BottomLayer SOT23-3N            2070.000      825.000       90       "N沟道 30V/4.2A"                                                              
+Q202             AO3400            BottomLayer SOT23-3N            1665.000      825.000       90       "N沟道 30V/4.2A"                                                              
+Q201             AO3400            BottomLayer SOT23-3N            1275.000      825.000       90       "N沟道 30V/4.2A"                                                              
+Q102             AO3400            TopLayer    SOT23-3N            1581.000      3071.000      360      "N沟道 30V/4.2A"                                                              
+Q101             AO3401            TopLayer    SOT23-3N            1727.527      3145.764      90       "P沟道 30V/4.2A"                                                              
+LED4             红色                TopLayer    LED0805_G           2565.003      821.493       90       贴片LED                                                                       
+LED3             红色                TopLayer    LED0805_G           2168.336      821.493       90       贴片LED                                                                       
+LED2             红色                TopLayer    LED0805_G           1771.670      821.493       90       贴片LED                                                                       
+LED1             红色                TopLayer    LED0805_G           1375.003      821.493       90       贴片LED                                                                       
+L201             10uH              TopLayer    CD52                3248.032      1027.559      180      CD系列贴片线绕功率电感                                                                
+L101             3.3uH             TopLayer    L0805               1487.997      3182.997      360      贴片小功率电感                                                                     
+L2               0                 BottomLayer L0603               350.000       793.409       270      贴片小功率电感                                                                     
+L1               22uH              BottomLayer L0603               435.003       668.997       360      贴片小功率电感                                                                     
+KEY_CLRVAL       4x4x1.5           TopLayer    SW_SMD-4*4*1.5      511.811       395.000       90       贴片4x4轻触开关                                                                   
+K210Download     HDR-1X4           TopLayer    XH2.54-LI-4P        115.000       2905.000      270      4P接插件                                                                       
+JTAG_debug       HDR-1X6           TopLayer    XH2.54-LI-6P        115.000       3540.000      270      6P接插件                                                                       
+IC302            HX711             TopLayer    SOIC127P600X160-16N 1055.000      1640.000      180      "Integrated Circuit"                                                        
+IC203            TP4057-42-SOT26-R TopLayer    SOT95P280X125-6N    3419.449      465.236       180      "Integrated Circuit"                                                        
+"Display Socket" HDR-1X4           TopLayer    HDR2.54-M-LI-4P     1235.000      393.701       90       4P接插件                                                                       
+D201             SS210             TopLayer    SMA                 3080.000      750.000       270      肖特基二极管                                                                      
+CH573_Download   HDR-1X5           TopLayer    MX1.25-L-5P         740.000       877.606       90       5P连接器                                                                       
+CAMERA           68712414022       TopLayer    68712414022         1012.047      3701.614      180      "SMT ZIF Connectors WR-FPC, Horizontal, Top Contact, pitch 0.5 mm, 24 pins" 
+C211             "100nF 10% 25V"   TopLayer    C0805_L             2044.997      355.003       270      贴片电容/MLCC电容                                                                 
+C210             "1uF 10% 25V"     TopLayer    C0805_L             2124.997      355.003       270      贴片电容/MLCC电容                                                                 
+C209             "10uF 10% 25V"    TopLayer    C0805_L             2204.997      355.003       270      贴片电容/MLCC电容                                                                 
+C208             "10uF 10% 25V"    TopLayer    C0805_L             2531.496      509.842       270      贴片电容/MLCC电容                                                                 
+C207             "22uF 10% 25V"    TopLayer    C1206_L             2620.000      509.016       270      贴片电容/MLCC电容                                                                 
+C206             "0.1uF 10% 25V"   TopLayer    C0603_L             2749.997      720.121       270      贴片电容/MLCC电容                                                                 
+C205             "0.1uF 10% 25V"   TopLayer    C0603_L             2809.997      720.121       270      贴片电容/MLCC电容                                                                 
+C204             "0.1uF 10% 25V"   TopLayer    C0603_L             2869.997      720.121       270      贴片电容/MLCC电容                                                                 
+C203             "22uF 10% 25V"    TopLayer    C1206_L             2950.000      714.016       270      贴片电容/MLCC电容                                                                 
+C202             "0.1uF 10% 25V"   TopLayer    C0603_L             3655.512      870.079       180      贴片电容/MLCC电容                                                                 
+C201             "22uF 10% 25V"    TopLayer    C1206_L             3652.559      787.402       180      贴片电容/MLCC电容                                                                 
+C105             100nF             TopLayer    C0603_L             1640.000      2926.409      90       贴片电容/MLCC电容                                                                 
+C104             100nF             TopLayer    C0603_L             1470.003      2925.997      90       贴片电容/MLCC电容                                                                 
+C103             100nF             TopLayer    C0603_L             1608.997      3285.003      270      贴片电容/MLCC电容                                                                 
+C102             100nF             TopLayer    C0603_L             1670.996      3285.003      270      贴片电容/MLCC电容                                                                 
+C101             1uF               TopLayer    C0603_L             1732.997      3285.003      270      贴片电容/MLCC电容                                                                 
+C17              "10uF 16V"        BottomLayer C0603_L             719.137       441.060       180      贴片电容/MLCC电容                                                                 
+C16              "10uF 16V"        TopLayer    C0603_L             1534.997      1845.003      270      贴片电容/MLCC电容                                                                 
+C15              "10uF 16V"        TopLayer    C0603_L             1424.997      1553.003      270      贴片电容/MLCC电容                                                                 
+C14              "100nF 16V"       TopLayer    C0603_L             1454.997      1679.997      360      贴片电容/MLCC电容                                                                 
+C13              "10uF 16V"        TopLayer    C0805_L             1395.003      1330.003      180      贴片电容/MLCC电容                                                                 
+C12              1uF               TopLayer    C0201_L             250.003       968.997       90       贴片电容/MLCC电容                                                                 
+C11              1uF               TopLayer    C0201_L             330.003       968.997       90       贴片电容/MLCC电容                                                                 
+C4               2.2uF             TopLayer    C0603_L             507.997       714.997       360      贴片电容/MLCC电容                                                                 
+C3               2.2uF             BottomLayer C0603_L             406.997       833.997       90       贴片电容/MLCC电容                                                                 
+C2               0.1uF             BottomLayer C0603_L             349.997       914.997       90       贴片电容/MLCC电容                                                                 
+C1               1uF               BottomLayer C0603_L             331.003       999.997       180      贴片电容/MLCC电容                                                                 
+BootPullDown     HDR-1X2           TopLayer    HDR2.54-LI-2P       90.000        2425.000      90       2P接插件                                                                       
+Battery          HDR-1X2           TopLayer    XH2.54-LI-2P        3564.528      1100.000      360      2P接插件                                                                       

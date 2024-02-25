@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [calorieScale_Project.PrjPcb]
+   Generated File[Pick Place for calorieScale.txt]
+   Generated File[Pick Place for calorieScale.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:06:46 On 2022-12-28
